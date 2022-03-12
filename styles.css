@@ -1,0 +1,10 @@
+.grid {
+  border: solid 1px;
+  width: 16px;
+  height: 16px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
